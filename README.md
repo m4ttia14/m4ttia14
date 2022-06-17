@@ -1,16 +1,26 @@
-### Hi there 👋
+<!-- 
 
-<!--
-**ma77ia14/ma77ia14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	~> If you see this don't forget to follow me before skid :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+```css
+[ma77ia14@archlinux ~]$ neofetch
+
+                    -@                    ma77ia14@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: ma77ia14
+                  @#####@                 Alias: Mattia
+                . *######@                Discord: https://discord.gg/5hVgyVtGp9
+               .##@o@#####@               Website: ///
+              /############@            
+             /##############@             ma77ia14@archlinux
+            @######@**%######@            -----------------
+           @######`     %#####o           HTML: 2 Repositories
+          @######@       ######%          JavaScript: 2 Repositories
+        -@#######h       ######@.`        ///
+       /#####h**``       `**%@####@       ///
+      @H@*`                    `*%#@    
+     *`                            `*     Infos: ///
+
+```
