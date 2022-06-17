@@ -11,7 +11,7 @@
                    .##@                   -----------------
                   .####@                  Username: ma77ia14
                   @#####@                 Alias: Mattia
-                . *######@                Discord: https://discord.gg/5hVgyVtGp9
+                . *######@                Discord: [https://discord.gg/BubaSquad](https://discord.gg/5hVgyVtGp9)
                .##@o@#####@               Website: ///
               /############@            
              /##############@             ma77ia14@archlinux
