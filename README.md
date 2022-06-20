@@ -24,7 +24,9 @@
      *`                            `*     Infos: ///
 
 ```
+### <p align="center">👀 &nbsp;Number of visitors:</p>
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/ma77ia14/count.svg" />
 </p>
+```
