@@ -25,11 +25,7 @@
 
 ```
 
-
-
-```css
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/ma77ia14/count.svg" />
 </p>
-```
