@@ -24,7 +24,6 @@
      *`                            `*     Infos: ///
 
 ```
--->
 
 ### <p align="center">&nbsp;Number of visitors:</p>
 <br>
