@@ -5,16 +5,16 @@
 -->
 
 ```css
-[ma77ia14@archlinux ~]$ neofetch
+[m4ttia14@archlinux ~]$ neofetch
 
-                    -@                    ma77ia14@archlinux
+                    -@                    m4ttia14@archlinux
                    .##@                   -----------------
-                  .####@                  Username: ma77ia14
+                  .####@                  Username: m4ttia14
                   @#####@                 Alias: Mattia
                 . *######@                Discord: https://discord.gg/5hVgyVtGp9
                .##@o@#####@               Website: ///
               /############@            
-             /##############@             ma77ia14@archlinux
+             /##############@             m4ttia14@archlinux
             @######@**%######@            -----------------
            @######`     %#####o           HTML: 2 Repositories
           @######@       ######%          JavaScript: 2 Repositories
@@ -27,5 +27,5 @@
 
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ma77ia14/count.svg" />
+  <img src="https://profile-counter.glitch.me/m4ttia14/count.svg" />
 </p>
